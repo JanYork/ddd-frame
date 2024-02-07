@@ -1,0 +1,50 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>net.zhaixing.ddd.frame</groupId>
+    <artifactId>ddd-frame</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0.0</version>
+    <name>ddd-frame</name>
+    <description>DDD(领域驱动设计)模版生成脚手架</description>
+
+    <developers>
+        <developer>
+            <name>JanYork</name>
+            <email>hi@zhaixing.net</email>
+            <url>https://github.com/JanYork</url>
+            <organization>zhaixing.net</organization>
+            <organizationUrl>https://www.zhaixing.net</organizationUrl>
+        </developer>
+    </developers>
+
+    <licenses>
+        <license>
+            <name>Apache License, Version 2.0</name>
+            <url>https://www.apache.org/licenses/LICENSE-2.0</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <modules>
+        <module>ddd-frame-template</module>
+    </modules>
+
+    <properties>
+        <!--  Lombok：简化代码 -->
+        <lombok.version>1.18.30</lombok.version>
+        <!--  项目编码 -->
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <!--  Java 版本 -->
+        <maven.compiler.source>17</maven.compiler.source>
+        <!--  Java 版本 -->
+        <maven.compiler.target>17</maven.compiler.target>
+    </properties>
+
+    <dependencyManagement>
+        <dependencies>
+
+        </dependencies>
+    </dependencyManagement>
+</project>

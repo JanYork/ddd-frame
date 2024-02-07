@@ -1,0 +1,44 @@
+# class files
+*.class
+
+# eclipse
+.project
+.classpath
+.settings/
+
+# intellij
+*.ipr
+*.iml
+*.iws
+.idea/
+
+# maven
+target/
+
+# gradle
+.gradle
+build
+
+# log file
+*.log
+
+# out
+**/out/
+
+# blueJ files
+*.ctxt
+
+# package files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.pid
+*.orig
+
+# macos
+.DS_Store
