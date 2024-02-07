@@ -1,0 +1,10 @@
+package ${package}.common.domain;
+
+/**
+ * 灰度层标记接口
+ *
+ * @author ${author}
+ */
+public interface Interface extends Marker {
+    
+}

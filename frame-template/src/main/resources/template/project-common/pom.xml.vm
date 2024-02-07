@@ -1,0 +1,19 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>${project.group}</groupId>
+        <artifactId>${project.artifact}</artifactId>
+        <version>1.0.0</version>
+    </parent>
+
+    <artifactId>${project.name.en}-common</artifactId>
+    <packaging>jar</packaging>
+    <name>${project.name.en}-common</name>
+    <description>${project.name.cn}模块基础包</description>
+
+    <dependencies>
+
+    </dependencies>
+</project>

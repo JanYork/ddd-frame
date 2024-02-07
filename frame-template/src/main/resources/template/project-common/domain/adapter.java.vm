@@ -1,0 +1,10 @@
+package ${package}.common.domain;
+
+/**
+ * 适配器层标记接口
+ *
+ * @author ${author}
+ */
+public interface Adapter extends Marker {
+    
+}

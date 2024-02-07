@@ -1,0 +1,10 @@
+package ${package}.common.domain;
+
+/**
+ *  命令标记接口
+ *
+ * @author ${author}
+ */
+public interface Command extends Marker {
+
+}

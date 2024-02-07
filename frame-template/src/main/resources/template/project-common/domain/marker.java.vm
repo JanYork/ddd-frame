@@ -1,0 +1,9 @@
+package ${package}.common.domain;
+
+/**
+ *  标记接口基类
+ *
+ * @author ${author}
+ */
+public interface Marker {
+}

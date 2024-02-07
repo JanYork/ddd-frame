@@ -1,0 +1,10 @@
+package ${package}.common.domain;
+
+/**
+ * 返回实体标记
+ *
+ * @author ${author}
+ */
+public interface ResultModel extends Marker {
+    
+}

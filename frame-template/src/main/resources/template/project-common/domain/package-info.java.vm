@@ -1,0 +1,4 @@
+/**
+ * 基类包
+ */
+package ${package}.common.domain;

@@ -1,0 +1,10 @@
+package ${package}.common.domain;
+
+/**
+ *  实体类标记接口
+ *
+ * @author ${author}
+ */
+public interface Entity extends Marker {
+
+}

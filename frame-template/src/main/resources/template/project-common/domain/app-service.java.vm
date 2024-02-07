@@ -1,0 +1,10 @@
+package ${package}.common.domain;
+
+/**
+ * 应用服务标记接口
+ *
+ * @author ${author}
+ */
+public interface AppService extends Marker {
+
+}

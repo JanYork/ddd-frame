@@ -1,0 +1,10 @@
+package ${package}.common.domain;
+
+/**
+ *  聚合根标记接口
+ *
+ * @author ${author}
+ */
+public interface AggregateRoot extends Marker {
+    
+}
