@@ -1,0 +1,6 @@
+/**
+ * 微服务HTTP抽象接口定义包
+ *
+ * @author ${author}
+ */
+package ${package}.api;
